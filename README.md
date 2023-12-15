@@ -19,7 +19,7 @@
 🎓 창원대학교 컴퓨터공학과 ( 2015.03 - 2021.08 )
 <hr/>
 
-<h2> 🔨 SKILLS </h2>
+<h2> 🔨 Skills </h2>
 <br/>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
   <!-- AVALIABLE -->
@@ -34,7 +34,7 @@
         <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/Android(JAVA)-3ddc84?style=flat-square&logo=android&logoColor=white"/> 
     </div>
-    <!-- EXPERIENCED -->
+    <!-- Experienced -->
     <p><strong>💻 EXPERIENCED</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
