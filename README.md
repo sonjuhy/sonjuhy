@@ -23,7 +23,7 @@
 <br/>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
   <!-- AVALIABLE -->
-    <p><strong>🌈 AVALIABLE</strong></p>
+    <p><strong>🌈 Available</strong></p>
     <div>
         <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -35,7 +35,7 @@
         <img src="https://img.shields.io/badge/Android(JAVA)-3ddc84?style=flat-square&logo=android&logoColor=white"/> 
     </div>
     <!-- Experienced -->
-    <p><strong>💻 EXPERIENCED</strong></p>
+    <p><strong>💻 Experience</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
