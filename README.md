@@ -66,6 +66,5 @@
   <a href="https://sonjuhy.tistory.com/" style="text-decoration: none">🖥️ BLOG</a> 
   <br/>
   <a href="https://sonjuhy.github.io/Portfolio/" style="text-decoration: none">👨‍💻 Portfolio</a>  
-  
 </div>
 <br>
