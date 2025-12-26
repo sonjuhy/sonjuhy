@@ -14,9 +14,12 @@
 
 📧 sonjuhy@gmail.com
 
+🏢 EDINT AI 개발팀 ( 2024.07 - )
+
 💻 삼성 청년 SW 아카데미 7기 ( 2022.01 - 2022.12 )
 
 🎓 창원대학교 컴퓨터공학과 ( 2015.03 - 2021.08 )
+
 
 📜 [포트폴리오 Web Site](https://sonjuhy.github.io/Portfolio/)
 <hr/>
@@ -27,23 +30,23 @@
   <!-- AVALIABLE -->
     <p><strong>🌈 Available</strong></p>
     <div>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MQTT(Mosquitto)-660066?style=flat-square&logo=mqtt&logoColor=white"/>
         <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Android(JAVA)-3ddc84?style=flat-square&logo=android&logoColor=white"/> 
     </div>
     <!-- Experienced -->
     <p><strong>💻 Experience</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
         <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/MQTT(Mosquitto)-660066?style=flat-square&logo=mqtt&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android(JAVA)-3ddc84?style=flat-square&logo=android&logoColor=white"/> 
     </div>
     <!-- Collaboration Tools -->
     <p><strong>🔮 Collaboration Tools</strong></p>
