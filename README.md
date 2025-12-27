@@ -2,7 +2,7 @@
 <h2>Welcome! 🎉 </h3> 
 
 <p>
-  한번 시도로 안되면 두번 세번 시도하는 백엔드 개발자입니다.백엔드 뿐만 아니라 여러 분야 또한 배우고 도전하는것을 좋아합니다.
+  한번 시도로 안되면 두번 세번 시도하는 AI 엔지니어링 개발자입니다.AI 뿐만 아니라 여러 분야 또한 배우고 도전하는것을 좋아합니다.
   <br/>
   <br/>
   I'm a back-end developer who tries twice or three times to achieve results if it doesn't work out once. I like to learn various fields as well as backend.
