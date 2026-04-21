@@ -27,28 +27,35 @@
 <h2> 🔨 Skills </h2>
 <br/>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-  <!-- AVALIABLE -->
-    <p><strong>🌈 Available</strong></p>
+    <p><strong>👁️ Vision AI & AI Core</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+    </div>
+    <p><strong>⚙️ Backend & Infrastructure</strong></p>
+    <div>
         <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MQTT(Mosquitto)-660066?style=flat-square&logo=mqtt&logoColor=white"/>
     </div>
-    <!-- Experienced -->
-    <p><strong>💻 Experience</strong></p>
+    <p><strong>🤖 AI Tools</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=flat-square&logo=googlegemini&logoColor=white">
+        <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
+    </div>
+    <p><strong>💻 Frontend & Mobile (Experience)</strong></p>
     <div>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
-        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/MQTT(Mosquitto)-660066?style=flat-square&logo=mqtt&logoColor=white"/>
         <img src="https://img.shields.io/badge/Android(JAVA)-3ddc84?style=flat-square&logo=android&logoColor=white"/> 
     </div>
-    <!-- Collaboration Tools -->
     <p><strong>🔮 Collaboration Tools</strong></p>
     <div>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -57,14 +64,15 @@
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white"/>
     </div>
-    <!-- IDE -->
     <p><strong>👨‍👩‍👧‍👦 IDE</strong></p>
     <div>
-      <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
     </div>
   <br>
 </div>
+
 
 <h3> 💻 DEV's log</h3>
 <div style="display:flex; flex-direction:row;">
